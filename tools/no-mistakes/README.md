@@ -23,9 +23,6 @@
 </p>
 
 <h3 align="center">Kill all the slop. Raise clean PR.</h3>
-
-<p align="center"><strong>English</strong>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/kunchenguid/no-mistakes/main/demo.gif" alt="no-mistakes demo" width="800" />
 </p>
