@@ -24,7 +24,7 @@
 
 <h3 align="center">Kill all the slop. Raise clean PR.</h3>
 
-<p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center"><strong>English</strong>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kunchenguid/no-mistakes/main/demo.gif" alt="no-mistakes demo" width="800" />
