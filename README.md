@@ -11,7 +11,6 @@ Each tool lives under `tools/` as a self-contained directory.
 of git worktrees. Useful for running multiple parallel tasks on the same repo
 without conflicts. Integrates directly with firstmate for per-task isolation.
 
-- **Repo:** https://github.com/kunchenguid/treehouse
 - **Language:** Go
 
 ### [firstmate](./tools/firstmate)
@@ -21,7 +20,6 @@ uses it to spawn and supervise a fleet of autonomous crewmate agents in isolated
 tmux windows and git worktrees. Each crewmate handles one task independently;
 firstmate coordinates them and surfaces only decisions that need your attention.
 
-- **Repo:** https://github.com/kunchenguid/firstmate
 - **Language:** Bash + AGENTS.md prompt
 
 ### [no-mistakes](./tools/no-mistakes)
@@ -30,7 +28,6 @@ firstmate coordinates them and surfaces only decisions that need your attention.
 review/test/lint pipeline via an AI agent before opening a PR. Enforces a
 consistent gate so every PR is properly validated before it reaches the team.
 
-- **Repo:** https://github.com/kunchenguid/no-mistakes
 - **Language:** Bash
 
 ## Structure
@@ -57,5 +54,4 @@ These three tools form a coherent AI development workflow:
 
 ## Source
 
-All tools were originally developed by [@kunchenguid](https://github.com/kunchenguid).
 This repo consolidates them for personal reference and ease of navigation.
